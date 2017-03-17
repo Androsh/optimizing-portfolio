@@ -8,3 +8,5 @@ Optimised web page:
 - moved scripts to the end of body
 - added async for scripts
 - optimised images with grunt
+
+**go to** https://androsh.github.io/frontend-nanodegree-mobile-portfolio/ **and check it out!**
