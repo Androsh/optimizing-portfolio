@@ -7,4 +7,4 @@ Optimised web page:
 - removed fonts link
 - moved scripts to the end of body
 - added async for scripts
-- optimized images
+- optimised images with grunt

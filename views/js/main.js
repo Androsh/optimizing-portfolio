@@ -421,7 +421,11 @@ var resizePizzas = function(size) {
 
   changeSliderLabel(size);
 
+  // Deleted Dx function
+
   // Iterates through pizza elements on the page and changes their widths
+
+  // Simplified the pizza slider
   function changePizzaSizes(size) {
     switch(size) {
       case "1":
@@ -485,6 +489,8 @@ function logAverageFrame(times) {   // times is the array of User Timing measure
 // https://www.igvita.com/slides/2012/devtools-tips-and-tricks/jank-demo.html
 
 // Moves the sliding background pizzas based on scroll position
+
+// Change to for loop compared to original, created var scroll outside the loop
 function updatePositions() {
   frame++;
   window.performance.mark("mark_start_frame");
