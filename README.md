@@ -1,5 +1,7 @@
 # Udacity-fend-web-performance-optimization-portfolio-project
 
+![Screenshot](img/screen.png?raw=true)
+
 Optimised web page:
 
 - inlined style.css
